@@ -1,0 +1,33 @@
+{
+  "HomePage": {
+    "hero": {
+      "badge": "Innovating the Digital Future 🚀",
+      "title_part1": "Transforming your ideas into",
+      "title_part2": "tangible digital reality",
+      "description": "We provide integrated software solutions, from ERP systems and mobile apps to Artificial Intelligence, building systems that speak the language of the future.",
+      "start_button": "Start Your Project Now",
+      "explore_button": "Explore Our Services"
+    },
+    "services": {
+      "header_part1": "Our Digital",
+      "header_part2": "Solutions Ecosystem",
+      "subtitle": "Advanced software engineering designed to lead your technological future.",
+      "erp": {
+        "title": "Enterprise Resource Planning (ERP)",
+        "desc": "We design and develop integrated administrative systems that connect all your company's departments (Finance, HR, Sales) in a single dashboard to facilitate decision-making and increase productivity."
+      },
+      "ai": {
+        "title": "Artificial Intelligence",
+        "desc": "Integrating machine learning models to automate your operations and analyze data intelligently."
+      },
+      "mobile": {
+        "title": "Mobile Applications",
+        "desc": "Professional iOS and Android applications offering a flawless user experience."
+      },
+      "web": {
+        "title": "Advanced Web Solutions",
+        "desc": "We build scalable, fast, and secure web platforms using the latest Serverless technologies (Next.js) with cloud hosting ensuring your systems stay connected."
+      }
+    }
+  }
+}
